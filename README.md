@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my school github account.
+- 🔭 I’m interested in C++, python, and HTML.
+- 🌱 I'm currently in ECE141A.
+- 👯 I enjoy playing sports.
